@@ -1,5 +1,3 @@
-# [Less is More](https://xuejie.space/)
-
 # Introduction to CKB Script Programming 1: Validation Model
 
 As of now, the cell validation model in CKB has been more or less stablized, hence I’m starting a series of article introducing CKB script programming here. My goal here is to fill in all the missing implementation details one need to write CKB scripts after reading the whitepaper, so you can start exploring this beautiful wonderland CKB presents.
